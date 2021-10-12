@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sharad-baucha
-- 👀 I’m interested in coding and gaphic desigining
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding and gaphic desigining.
+- 🌱 I’m currently learning PHP and Laravel.
+- 💞️ I’m looking to collaborate on web desigining.
 - 📫 How to reach me sharadshrestha20581@gmail.com
 
 <!---
